@@ -1,5 +1,17 @@
 # Proyecto de cartelera 
-EEn este proyecto se desarrollóun sitio web en el cual se realizó el consumo de una API 
+En este proyecto se desarrollóun sitio web en el cual se realizó el consumo de una API de usuarios para poder realizar un logueo y tambien una API de peliculas las cuales se muestran como cartelera.
+## Servicio para conectar con la API
+## Login
+## Home
+## Editar
+## Ver
+## Eliminar
+## Ejecución
+### Login
+### Home
+### Modal Ver
+### Modal Eliminar
+### Modal Editar
 ## Proyecto
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
