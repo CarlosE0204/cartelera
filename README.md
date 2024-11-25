@@ -2,6 +2,7 @@
 En este proyecto se desarrollóun sitio web en el cual se realizó el consumo de una API de usuarios para poder realizar un logueo y tambien una API de peliculas las cuales se muestran como cartelera.
 ## Servicio para conectar con la API
 Primeramente se tiene que los metodos de setItem() y getItem() los cuales ayudaran a poder guardar y recuperar al usuarios que se loguee para que con base a esto se pueda recuperar su nombre de usuario y la foto de perfil que este mismo tenga.
+
 ![image](https://github.com/user-attachments/assets/76f091bb-00d6-45d1-a33e-97d9870c5f22)
 
 Tambien se tiene el método de getUsers() con el cual se realiza la consulta a la API de usuarios y nos regresa un observable, esto será necesario en el loguin para poder buscar si existe el usuario ingresado.
@@ -17,6 +18,7 @@ Este método realiza la recuperacion del observable de los usuarios y lo almacen
 
 ### validar()
 Con este método unicamente se valida que no hayan campos vacios dentro del login y muestra un mat-error en caso de que así sea.
+
 ![image](https://github.com/user-attachments/assets/b4272ab1-42ae-4de5-b4d2-168b09bed9bb)
 
 ### ingresar()
